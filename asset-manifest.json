@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cherry-blossom/static/css/main.2f3aeca3.css",
+    "main.js": "/cherry-blossom/static/js/main.e3041759.js",
+    "index.html": "/cherry-blossom/index.html",
+    "main.2f3aeca3.css.map": "/cherry-blossom/static/css/main.2f3aeca3.css.map",
+    "main.e3041759.js.map": "/cherry-blossom/static/js/main.e3041759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f3aeca3.css",
+    "static/js/main.e3041759.js"
+  ]
+}
